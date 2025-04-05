@@ -4,57 +4,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Apple iPhone Website - Clone README</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      margin: 20px;
-      background-color: #f9f9f9;
-      color: #1c1c1c;
-      line-height: 1.6;
-    }
-
-  h1, h2 {
-      color: #000;
-    }
-
-  h1 {
-      text-align: center;
-      font-size: 2.5em;
-      margin-bottom: 10px;
-    }
-
-  p.center {
-      text-align: center;
-      font-size: 1.1em;
-    }
-
-  ul {
-      margin-left: 20px;
-    }
-
- a {
-      color: #0071e3;
-      text-decoration: none;
-    }
-
-  a:hover {
-      text-decoration: underline;
-    }
-
-  pre {
-      background-color: #e8e8e8;
-      padding: 12px;
-      border-left: 4px solid #0071e3;
-      border-radius: 5px;
-      overflow-x: auto;
-      font-family: 'Courier New', Courier, monospace;
-    }
-
-  section {
-      margin-top: 30px;
-    }
-  </style>
 </head>
 <body>
   <h1>🍏 Apple iPhone Website - Clone</h1>
@@ -102,7 +51,7 @@
   <section>
     <h2>🌐 Live Demo</h2>
     <p>
-      Experience the Apple iPhone Clone live <a href="https://aviralpratap21.github.io/Apple_Clone_Project/" target="_blank">here</a>.
+      Experience the Apple iPhone Clone live <a href="https://aviralpratap21.github.io/apple_clone/" target="_blank">here</a>.
     </p>
   </section>
 
